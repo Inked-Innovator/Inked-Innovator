@@ -1,4 +1,4 @@
-<img height="500" width="1000" src="https://futureskillsprime.in//sites/default/files/2021-04/iStock-966248982_0.jpg">
+![MasterHead](https://futureskillsprime.in//sites/default/files/2021-04/iStock-966248982_0.jpg)
 <h1 align="center">Hi 👋, I'm Inked Innovator</h1>
 <h2 align="center">A Passionate Frontend Developer</h2>
 
